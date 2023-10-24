@@ -1,4 +1,4 @@
-# Desenvolvido por Heloisa Cabral e Bernardo Duque para p1 de algoritmo - engenharia de software
+# Desenvolvido por Heloisa Cabral para p1 de algoritmo - engenharia de software
 alunos = {}  #Lista para armazenar cada aluno do codigo
 
 while True: #loop enquanto as opções forem verdadeiras #será quebrado no break no final do código
